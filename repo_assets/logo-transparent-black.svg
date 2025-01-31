@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="130.06133mm"
+   height="33.422791mm"
+   viewBox="0 0 130.06133 33.422791"
+   version="1.1"
+   id="svg728"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview730"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs725" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.830293,-97.265241)">
+    <g
+       id="g658"
+       transform="translate(54.886493,-38.458052)"
+       inkscape:export-filename="logo-transparent-white.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       style="fill:#000000">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.5111px;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         x="72.743637"
+         y="152.95262"
+         id="text451"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';fill:#000000;stroke-width:0"
+           x="72.743637"
+           y="152.95262"
+           id="tspan453">Portal <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Bold';fill:#000000;stroke-width:0"
+   id="tspan619">2(d)</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:11.561px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Thin';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         x="72.147881"
+         y="167.06511"
+         id="text617"><tspan
+           sodipodi:role="line"
+           id="tspan615"
+           style="fill:#000000;stroke-width:0"
+           x="72.147881"
+           y="167.06511">Think with pancakes</tspan></text>
+    </g>
+  </g>
+</svg>
